@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "地球存在しない説",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-03-28T13:23:50.849604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "地球存在しない説",
+      "artist": "ZUTOMAYO",
+      "has_synced": false,
+      "path": "select/01_地球存在しない説_ZUTOMAYO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Planet Feels Fake (地球存在しない説)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/02_This_Planet_Feels_Fake_(地球存在しない説)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "地球存在しない説",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_地球存在しない説_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
